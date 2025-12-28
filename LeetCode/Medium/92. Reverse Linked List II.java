@@ -51,6 +51,7 @@ class Solution
 
 
 
+    private
     ListNode
     reverse
     (
