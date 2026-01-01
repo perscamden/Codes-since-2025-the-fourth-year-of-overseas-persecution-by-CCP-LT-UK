@@ -1,4 +1,7 @@
-def is_balanced(s):
+def is_balanced \
+( \
+    s \
+):
     vowels = "AEIOUaeiou"
     
     
