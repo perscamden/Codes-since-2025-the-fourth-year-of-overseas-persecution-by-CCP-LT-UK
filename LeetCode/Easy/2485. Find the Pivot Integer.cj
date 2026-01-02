@@ -45,7 +45,7 @@ class Solution
         }
 
 
-        -1;
+        -1
     }
 
 }
