@@ -8,14 +8,14 @@ class Solution
     )
     : Int64
     {
-        const MOD = 1000000007
+        const MOD = 1_000_000_007
         var t1 = 6
         var t2 = 6
         
         
         for
         (
-            i
+            _
             in
             1..n
         )
